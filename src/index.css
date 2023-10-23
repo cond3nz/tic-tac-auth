@@ -381,13 +381,13 @@ body {
   float: left;
   font-size: 20px;
   font-weight: bold;
-  line-height: 25px;
-  height: 25px;
+  line-height: 17vw;
+  height: 20vw;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 25px;
+  width: 20vw;
 }
 
 .board-row:after {
@@ -406,7 +406,7 @@ body {
 
 .game-info {
   display: flex;
-  flex-direction: row;
+  width: 40vw;
 }
 
 .form-widget .button > .loader {
