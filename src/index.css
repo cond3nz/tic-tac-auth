@@ -402,6 +402,7 @@ body {
 .game {
   display: flex;
   flex-direction: row;
+  width: 100vw
 }
 
 .game-info {
