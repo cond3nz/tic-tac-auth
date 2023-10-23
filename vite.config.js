@@ -18,8 +18,16 @@ export default defineConfig({
         theme_color: '#ffffff',
         icons: [
           {
-            src: 'src/assets/react.svg',
-            sizes: "any",
+            "src": "src/assets/react.svg",
+            "sizes": "48x48",
+          },
+          {
+            "src": "src/assets/react.svg",
+            "sizes": "72x72 96x96 128x128 256x256"
+          },
+          {
+            "src": "src/assets/react.svg",
+            "sizes": "257x257"
           }
         ]
       }
