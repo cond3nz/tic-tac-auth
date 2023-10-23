@@ -15,7 +15,7 @@ export default defineConfig({
         name: 'cond3nz tic-tac-auth',
         short_name: 'TTA',
         description: 'Zaebalsya',
-        theme_color: '#ffffff',
+        theme_color: '#2a2a2a',
         icons: [
           {
             "src": "src/assets/react.svg",
