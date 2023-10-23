@@ -9,7 +9,7 @@ export default defineConfig({
     VitePWA({ 
       registerType: 'autoUpdate',
       injectRegister: 'auto',
-      includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
+      includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg','src/assets/react.svg'],
       display: "standalone",
       manifest: {
         name: 'cond3nz tic-tac-auth',
