@@ -393,7 +393,7 @@ body {
 .board-row:after {
   clear: both;
   content: '';
-  display: block;
+  display: table;
 }
 
 .status {
