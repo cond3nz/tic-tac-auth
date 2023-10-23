@@ -2,7 +2,7 @@
     "name": "Cond3nz PWA",
     "icons": [
       {
-        "src": "src/assets/",
+        "src": "src/assets/512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
