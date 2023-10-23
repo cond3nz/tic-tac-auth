@@ -10,6 +10,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'auto',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
+      display: "standalone",
       manifest: {
         name: 'cond3nz tic-tac-auth',
         short_name: 'TTA',
@@ -19,8 +20,6 @@ export default defineConfig({
           {
             src: 'src/assets/react.svg',
             sizes: "any",
-            type: 'image/svg+xml',
-            purpose: "any"
           }
         ]
       }
