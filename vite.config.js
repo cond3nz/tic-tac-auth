@@ -17,14 +17,10 @@ export default defineConfig({
         theme_color: '#ffffff',
         icons: [
           {
-            src: 'pwa-192x192.png',
-            sizes: '192x192',
-            type: 'image/png'
-          },
-          {
-            src: 'pwa-512x512.png',
-            sizes: '512x512',
-            type: 'image/png'
+            src: 'src\assets\react.svg',
+            sizes: '48x48 72x72 96x96 128x128 256x256',
+            type: 'image/svg+xml',
+            purpose: "any"
           }
         ]
       }
