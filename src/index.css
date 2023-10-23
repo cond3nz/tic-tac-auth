@@ -405,8 +405,8 @@ body {
 }
 
 .game-info {
-  display: block;
-  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
 }
 
 .form-widget .button > .loader {
