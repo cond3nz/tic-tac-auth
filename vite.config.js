@@ -18,15 +18,15 @@ export default defineConfig({
         theme_color: '#2a2a2a',
         icons: [
           {
-            "src": "src/assets/react.svg",
+            "src": "assets/react-35ef61ed.svg",
             "sizes": "48x48",
           },
           {
-            "src": "src/assets/react.svg",
+            "src": "assets/react-35ef61ed.svg",
             "sizes": "72x72 96x96 128x128 256x256"
           },
           {
-            "src": "src/assets/react.svg",
+            "src": "assets/react-35ef61ed.svg",
             "sizes": "257x257"
           }
         ]
