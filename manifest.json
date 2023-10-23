@@ -1,0 +1,14 @@
+{
+    "name": "Cond3nz PWA",
+    "icons": [
+      {
+        "src": "src/assets/",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "https://tic-tac-auth.vercel.app",
+    "display": "standalone"
+
+  }
+  
