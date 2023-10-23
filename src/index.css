@@ -379,21 +379,21 @@ body {
   background: #2a2a2a;
   border: 1px solid #444444;
   float: left;
-  font-size: 20px;
+  font-size: 15vw;
   font-weight: bold;
-  line-height: 17vw;
-  height: 20vw;
+  line-height: 15vw;
+  height: 17vw;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 20vw;
+  width: 17vw;
 }
 
 .board-row:after {
   clear: both;
   content: '';
-  display: table;
+  display: block;
 }
 
 .status {
@@ -405,7 +405,6 @@ body {
 }
 
 .game-info {
-  display: flex;
   width: 40vw;
 }
 
