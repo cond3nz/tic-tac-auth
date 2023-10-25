@@ -95,6 +95,8 @@ export default function Account({ session }) {
         </button>
       </div>
     </form>
+    <form>
         <Game />
+    </form>
   )
 }
