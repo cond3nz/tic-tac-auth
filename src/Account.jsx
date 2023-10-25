@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+importuning { useState, useEffect } from 'react'
 import { supabase } from './supabaseClient'
 import Game from './tic_tac_toe'
 
@@ -94,9 +94,9 @@ export default function Account({ session }) {
           Sign Out
         </button>
       </div>
-      <div>
-        <Game />
-      </div>
     </form>
+    <div>
+        <Game />
+    </div>
   )
 }
