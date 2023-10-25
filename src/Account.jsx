@@ -94,8 +94,9 @@ export default function Account({ session }) {
           Sign Out
         </button>
       </div>
-
-      <Game />
+      <div>
+        <Game />
+      </div>
     </form>
   )
 }
