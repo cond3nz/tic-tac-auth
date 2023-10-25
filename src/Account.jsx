@@ -1,4 +1,4 @@
-importuning { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { supabase } from './supabaseClient'
 import Game from './tic_tac_toe'
 
